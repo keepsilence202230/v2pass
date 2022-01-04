@@ -17,6 +17,6 @@
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/scvnconnect/v4gpass",
+    "repository": "https://github.com/scvnconnect/v2pass",
     "stack": "container"
 }
