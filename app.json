@@ -5,7 +5,7 @@
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "https://github.com/bclswl0827/v2ray-heroku"
+            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
         },
         "AID": {
             "description": "AlterID",
